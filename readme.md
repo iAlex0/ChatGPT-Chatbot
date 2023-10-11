@@ -21,7 +21,7 @@ OPENAI_API_KEY=YOURKEY
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iAlex0/chatgpt-bot.git
+   git clone https://github.com/iAlex0/ChatGPT-Chatbot.git
 
 #
 2. Install dependencies:
